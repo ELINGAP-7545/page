@@ -1,5 +1,28 @@
 # ECCI-ELINGAP-7545
-### Arquitectura de procesadores universidad ECCI
+### Arquitectura de Procesadores 
+#### Universidad ECCI - Ingenieria Electrónica 
+
+* Profesor:       FERNEY ALBERTO BELTRAN MOLINA
+* Correo:         Electrónico: [fbeltranm@ecci.edu.co](fbeltranm@ecci.edu.co)
+* Oficina:        Centro de Investigación CEINTECCI
+* Teoria:         L 20:00 - 22:00  501 SEDE S
+                  V 18:00 - 20:00  103 Sede G2
+* laboratorios:   Lun 18:00 - 20:00 302 Sede A
+	            Jue 18:00 - 20:00 301 Sede A
+
+### Documentos de Clase.
+
+* week 1:   [Presentación](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/docs/docAP/week1.pdf) 
+* week 2:   [Presentación](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/docs/docAP/week2.pdf) 
+* week 3:   [Presentación](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/docs/docAP/week3.pdf) 
+* week 4:   [Presentación](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/docs/docAP/week3.pdf) 
+* week 6:   [Presentación](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/docs/docAP/week6_AP.pdf) 
+* week 7:   [Presentación](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/docs/docAP/week7_AP.pdf) 
+* week 8:   [Presentación](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/docs/docAP/week8_AP%20(3).pdf) 
+### Laboratorios.
+
+
+### Links de interes.
 
 
 * week 1:   [Presentación](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/docs/docAP/week1.pdf) 
