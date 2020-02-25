@@ -20,6 +20,7 @@
 * week 7:   [Presentación](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/docs/docAP/week7_AP.pdf) 
 * week 8:   [Presentación](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/docs/docAP/week8_AP%20(3).pdf) 
 ### Laboratorios.
+*  Lab 0:   [Instalación](https://github.com/ELINGAP-7545/lab00) 
 
 
 ### Links de interes.
