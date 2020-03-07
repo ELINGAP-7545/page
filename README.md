@@ -22,6 +22,9 @@
 ### Laboratorios.
 *  Lab 0:   [Instalación](https://github.com/ELINGAP-7545/lab00) 
 
+### Entregas.
+* 1 Corte   [link de entrega](https://docs.google.com/forms/d/e/1FAIpQLSefSf54tjP6ygO4ytEoMbjseqFt1WBJgzj37qfqrJoaay1upA/viewform) 
+
 
 ### Links de interes.
 
