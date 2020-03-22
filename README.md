@@ -79,6 +79,19 @@ Recuerde tener presente el deadline  de cada paquete de trabajo, a las 8 de  la 
 Para actualizar el repositorio deben realizar  el respectivo commit y push, según sea la plataforma que estén utilizando y como se explicó en clase.
 Recuerda también revisar que en la página de github se refleja las actualizaciones realizadas por el grupo de trabajo 
 
+
+A  | B  | Cin | Out | Cout 
+-- | -- | --  | --  |  --
+0| 0 | 0 |0 | 0
+0| 0 | 1 | 1| 0
+0| 1 | 0 | 1| 0
+0| 1 | 1 | 0| 1
+1| 0 | 0 | 1| 0
+1| 0 | 1 | 0| 1
+1| 1 | 0 | 0| 1
+1| 1 | 1 | 1| 1
+
+
 ## Cronograma de laboratorios 
 laboratorio   |  documentación |  Repositorio a clonar | Deadline  
 --            |   --           |    --                 |    --  
