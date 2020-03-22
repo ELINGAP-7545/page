@@ -85,7 +85,7 @@ Recuerda también revisar que en la página de github se refleja las actualizaci
 *  Lab 1:   [Configuración](https://github.com/ELINGAP-7545/lab01) 
 *  Lab 2:   [Simulacion](https://github.com/ELINGAP-7545/lab02) 
 *  Lab 3:   [Introducción ASM](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/wiki/Maquinas-de-Estado-Algorítmico#lab-5-multiplicado) 
-*  Lab 4:   [Visualización](https://github.com/ELINGAP-7545/lab04) 
+*  Lab 4:   [Visualización](https://github.com/ELINGAP-7545/lab04)  [WP04](https://classroom.github.com/g/zCBwHHKX)
 *  Lab 5:   [ALU](https://github.com/ELINGAP-7545/lab05) 
 *  Lab 6:   [Bamco de Registro](https://github.com/ELINGAP-7545/lab06) 
 *  Lab 7:   [cache](https://github.com/ELINGAP-7545/lab07) 
