@@ -82,14 +82,14 @@ Recuerda también revisar que en la página de github se refleja las actualizaci
 
 laboratorio  | documentación  | Repositorio a clonar | Deadline  
 -- | -- | --  | --  
-Lab 0| 0 | 0 |0 
-Lab 1| 0 | 1 | 1
-Lab 2| 1 | 0 | 1
-Lab 3| 1 | 1 | 0
-Lab 4| 0 | 0 | 1
-Lab 5| 0 | 1 | 0
-Lab 6| 1 | 0 | 0
-Lab 7| 1 | 1 | 1
+Lab 0| [Instalación](https://github.com/ELINGAP-7545/lab00) | 0 |0 
+Lab 1| [Configuración](https://github.com/ELINGAP-7545/lab01) | 1 | 1
+Lab 2| [Simulación](https://github.com/ELINGAP-7545/lab02) | 0 | 1
+Lab 3| [ASM](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/wiki/Maquinas-de-Estado-Algorítmico#lab-5-multiplicado) | 1 | 0
+Lab 4| [Visualización](https://github.com/ELINGAP-7545/lab04) | 0 | 1
+Lab 5| [ALU](https://github.com/ELINGAP-7545/lab05) | 1 | 0
+Lab 6| [Banco de Registro](https://github.com/ELINGAP-7545/lab06) | 0 | 0
+Lab 7|  [cache](https://github.com/ELINGAP-7545/lab07)| 1 | 1
 
 
 ## Cronograma de laboratorios 
