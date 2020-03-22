@@ -101,7 +101,7 @@ laboratorio   |  documentación |  Repositorio a clonar | Deadline
   Lab 3       |   [Introducción ASM](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/wiki/Maquinas-de-Estado-Algorítmico#lab-5-multiplicado) |  --                 |    --  
   Lab 4       |   [Visualización](https://github.com/ELINGAP-7545/lab04) | [WP04](https://classroom.github.com/g/zCBwHHKX) | 31 de marzo |    --   
   Lab 5       |   [ALU](https://github.com/ELINGAP-7545/lab05)  |  --                 |    --  
-  Lab 6       |   [Bamco de Registro](https://github.com/ELINGAP-7545/lab06) |  --                 |    --  
+  Lab 6       |   [Banco de Registro](https://github.com/ELINGAP-7545/lab06) |  --                 |    --  
   Lab 7       |   [cache](https://github.com/ELINGAP-7545/lab07) | --                 |    --  
 
 
