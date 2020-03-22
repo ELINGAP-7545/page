@@ -80,16 +80,16 @@ Para actualizar el repositorio deben realizar  el respectivo commit y push, seg�
 Recuerda también revisar que en la página de github se refleja las actualizaciones realizadas por el grupo de trabajo 
 
 
-A  | B  | Cin | Out | Cout 
--- | -- | --  | --  |  --
-0| 0 | 0 |0 | 0
-0| 0 | 1 | 1| 0
-0| 1 | 0 | 1| 0
-0| 1 | 1 | 0| 1
-1| 0 | 0 | 1| 0
-1| 0 | 1 | 0| 1
-1| 1 | 0 | 0| 1
-1| 1 | 1 | 1| 1
+laboratorio  | documentación  | Repositorio a clonar | Deadline  
+-- | -- | --  | --  
+Lab 0| 0 | 0 |0 
+Lab 1| 0 | 1 | 1
+Lab 2| 1 | 0 | 1
+Lab 3| 1 | 1 | 0
+Lab 4| 0 | 0 | 1
+Lab 5| 0 | 1 | 0
+Lab 6| 1 | 0 | 0
+Lab 7| 1 | 1 | 1
 
 
 ## Cronograma de laboratorios 
