@@ -79,30 +79,20 @@ Recuerde tener presente el deadline  de cada paquete de trabajo, a las 8 de  la 
 Para actualizar el repositorio deben realizar  el respectivo commit y push, según sea la plataforma que estén utilizando y como se explicó en clase.
 Recuerda también revisar que en la página de github se refleja las actualizaciones realizadas por el grupo de trabajo 
 
+## Cronograma de laboratorios 
+
 
 laboratorio  | documentación  | Repositorio a clonar | Deadline  
 -- | -- | --  | --  
 Lab 0| [Instalación](https://github.com/ELINGAP-7545/lab00) | N/A  |N/A  
 Lab 1| [Configuración](https://github.com/ELINGAP-7545/lab01) | N/A  | N/A 
 Lab 2| [Simulación](https://github.com/ELINGAP-7545/lab02) | N/A  | N/A 
-Lab 3| [ASM](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/wiki/Maquinas-de-Estado-Algorítmico#lab-5-multiplicado) | 1 | 0
+Lab 3| [ASM](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/wiki/Maquinas-de-Estado-Algorítmico#lab-5-multiplicado) | WP03 | 1 corte
 Lab 4| [Visualización](https://github.com/ELINGAP-7545/lab04) | [WP04](https://classroom.github.com/g/zCBwHHKX) | 31 de marzo
 Lab 5| [ALU](https://github.com/ELINGAP-7545/lab05) |  | 
 Lab 6| [Banco de Registro](https://github.com/ELINGAP-7545/lab06) |  | 
 Lab 7|  [cache](https://github.com/ELINGAP-7545/lab07)|  | 
 
-
-## Cronograma de laboratorios 
-laboratorio   |  documentación |  Repositorio a clonar | Deadline  
---            |   --           |    --                 |    --  
-  Lab 0       |   [Instalación](https://github.com/ELINGAP-7545/lab00)        |  N/A                 |    N/A   
-  Lab 1       |   [Configuración](https://github.com/ELINGAP-7545/lab01)        | N/A                 |    N/A   
-  Lab 2       |   [Simulacion](https://github.com/ELINGAP-7545/lab02)        | N/A                 |    N/A   
-  Lab 3       |   [Introducción ASM](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/wiki/Maquinas-de-Estado-Algorítmico#lab-5-multiplicado) |  WP03                 |    1corte  
-  Lab 4       |   [Visualización](https://github.com/ELINGAP-7545/lab04) | [WP04](https://classroom.github.com/g/zCBwHHKX) | 31 de marzo 
-  Lab 5       |   [ALU](https://github.com/ELINGAP-7545/lab05)  |  --                 |    --  
-  Lab 6       |   [Banco de Registro](https://github.com/ELINGAP-7545/lab06) |  --                 |    --  
-  Lab 7       |   [cache](https://github.com/ELINGAP-7545/lab07) | --                 |    --  
 
 
 ### Entregas.
