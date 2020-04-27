@@ -40,6 +40,8 @@ Requisitos: Aparte de los establecidos en cada uno de los programas que incluyen
 * week 6:   [Presentación](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/docs/docAP/week6_AP.pdf) 
 * week 7:   [Presentación](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/docs/docAP/week7_AP.pdf) 
 * week 8:   [Presentación](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/docs/docAP/week8_AP%20(3).pdf) 
+* week 9:   [Presentación](https://github.com/unal-edigital1-2020-1/page/blob/master/slides/week06/laboratorio%20de%20%20implementaci%C3%B3n.pptx) 
+
 
 ## Laboratorios y Proyecto 
 ### Metodología de trabajo 
