@@ -5,10 +5,9 @@
 * Profesor:       FERNEY ALBERTO BELTRAN MOLINA
 * Correo:         Electrónico: [fbeltranm@ecci.edu.co](fbeltranm@ecci.edu.co)
 * Oficina:        Centro de Investigación CEINTECCI
-* Teoria:         L 20:00 - 22:00  501 SEDE S
-                  V 18:00 - 20:00  103 Sede G2
-* laboratorios:   Lun 18:00 - 20:00 302 Sede A
-	            Jue 18:00 - 20:00 301 Sede A
+* meet:           https://meet.google.com/zyc-wbnt-fwi
+* classroom:       https://classroom.google.com/c/MjY4Njg4MDM1MTAw?cjc=hvpk7ev
+
 
 ### Descripción
 
