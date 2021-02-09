@@ -6,7 +6,7 @@
 * Correo:         Electrónico: [fbeltranm@ecci.edu.co](fbeltranm@ecci.edu.co)
 * Oficina:        Centro de Investigación CEINTECCI
 * meet:           https://meet.google.com/zyc-wbnt-fwi
-* classroom:       https://classroom.google.com/c/MjY4Njg4MDM1MTAw?cjc=hvpk7ev
+* classroom:      
 
 
 ### Descripción
