@@ -93,6 +93,7 @@ Lab 4| [Visualización](https://github.com/ELINGAP-7545/lab04) | [WP04](https://
 Lab 5| [ALU](https://github.com/ELINGAP-7545/lab05) | [WP05](https://classroom.github.com/g/dHrBou9a) | 
 Lab 6| [Banco de Registro](https://github.com/ELINGAP-7545/lab06) | [WP06](https://classroom.github.com/g/XHLhUCe3) | 
 Lab 7|  [cache](https://github.com/ELINGAP-7545/lab07)|  | 
+Lab final | procesador j1 | [link](https://github.com/ELINGAP-7545/labj1soc_display)
 
 
 
