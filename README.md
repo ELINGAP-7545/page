@@ -1,4 +1,4 @@
-# ECCI-ELINGAP-7545
+# ECCI-ARQUITECTURA DE PROCESADORES 2023-2
 ### Arquitectura de Procesadores 
 #### Universidad ECCI - Ingenieria Electrónica 
 
@@ -27,7 +27,6 @@ Requisitos: Aparte de los establecidos en cada uno de los programas que incluyen
 ### Contenido
 * Maquinas de Estado Algorítmico 
 * Introducción a procesadores
-*
 
 ### Material de Clase
 
