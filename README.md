@@ -88,7 +88,7 @@ Lab 0| [Instalación](https://github.com/ELINGAP-7545/lab00) | N/A  |N/A
 Lab 1| [Configuración](https://github.com/ELINGAP-7545/lab01) | N/A  | N/A 
 Lab 2| [Simulación](https://github.com/ELINGAP-7545/lab02) | N/A  | N/A 
 Lab 3| [ASM](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/wiki/Maquinas-de-Estado-Algorítmico#lab-5-multiplicado) | WP03 | 1 corte
-Lab 4| [Visualización](https://github.com/ELINGAP-7545/lab04) | [WP04](https://classroom.github.com/g/zCBwHHKX) | 6 de Abril 11pm
+Lab 4| [Visualización](https://github.com/ELINGAP-7545/lab04) | [WP04](https://classroom.github.com/g/zCBwHHKX) |
 Lab 5| [ALU](https://github.com/ELINGAP-7545/lab05) | [WP05](https://classroom.github.com/g/dHrBou9a) | 
 Lab 6| [Banco de Registro](https://github.com/ELINGAP-7545/lab06) | [WP06](https://classroom.github.com/g/XHLhUCe3) | 
 Lab 7|  [cache](https://github.com/ELINGAP-7545/lab07)|  | 
