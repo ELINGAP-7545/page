@@ -1,13 +1,8 @@
-# ECCI-ARQUITECTURA DE PROCESADORES 2023-2
+# ECCI-ARQUITECTURA DE PROCESADORES 2024-1
 ### Arquitectura de Procesadores 
 #### Universidad ECCI - Ingenieria Electrónica 
 
-* Profesor:       FERNEY ALBERTO BELTRAN MOLINA
-* Correo:         Electrónico: [fbeltranm@ecci.edu.co](fbeltranm@ecci.edu.co)
-* Oficina:        Centro de Investigación CEINTECCI
-* meet:           https://meet.google.com/zyc-wbnt-fwi
-* classroom:      
-
+*
 
 ### Descripción
 
