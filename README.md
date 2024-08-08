@@ -1,4 +1,4 @@
-# ECCI-ARQUITECTURA DE PROCESADORES 2024-1
+# ECCI-ARQUITECTURA DE PROCESADORES 2024-2
 ### Arquitectura de Procesadores 
 #### Universidad ECCI - Ingenieria Electrónica 
 
